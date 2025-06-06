@@ -15,3 +15,7 @@ Retrata sobre todos os tipos de núvens existente:
 
 
 Importante que para os desenvolvedores e profissionais de TI estejam "à frente", terem o conhecimento sobre cloud.
+
+Segue resumo das aulas:
+
+  - Aula 01[https://github.com/otavioximenes/resumo-do-lab/blob/main/Aula_01]
