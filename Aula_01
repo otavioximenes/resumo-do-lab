@@ -3,15 +3,43 @@
 
 Benefícios da núvem
 
-  - Alta disponibilidade e Escalabilidade
+  - Alta disponibilidade 
 
     A alta dispobibilidade (HA) é uma característica que visa garantir o desempenho operacional de um determinado serviço (up time) pelo período superior ao normal.
     Esta alta disponibilidade é garantida por meios de contrato de SLA , e caso tenha uma queda dos serviços previsto em contrato é devolvido um valor ao cliente pelo tempo que serviço ficou fora.
+
+  - Escalabilidade
+
+    É o processo de adicionar ou diminuir os recursos conforme a necessidade.
+
+  - Elasticidade 
+
+    É a capacidade de expandir ou diminuir rapidamente os recursos de processamento, memória e armazenamento para atender a demanda em constante mudança. ( Automaticamente ou manualmente )
+    Exemplo: O uso de recursos em horário de pico ou determinadas datas ( Black Friday )
+
+  - Confiabilidade 
+
+    Associado a parte de resiliência de um sistema que consegue se recuperar de falhas em segundos.
+    A nuvem permite que o usuário consiga criar recursos em todo o planeta , desde que tenha aquele recurso na região desejada, sendo altamente confiável.
+
+  - Previsibilidade
+
+    É a confiança no desempenho ou no custo, sendo ambas influenciadas pelo Microsoft Well-Architectured Framework.
+
+  - Segurança 
+
+    É importante lembrar que a parte de segurança dos seus recursos é uma responsabilidade compartilhada entre o provedor da nuvem e o contratante, parte de implementação não é responsabilidade da Microsoft.
     
-  - Confiabilidade e da previsibilidade na nuvem
-  - Segurança e da governança na nuvem
-  - Capacidade de gerenciamento na nuvem 
+  - Governança  
 
+    Forma como é controlado os recursos na nuvem, de acordo com os padrões que devem ser adotados nos recuros e que devem ser seguidos.
+    A parte de auditoria de nuvem ajuda a verificar quais os recursos estão em conformidade e quais estão fora do padrão adequado, fornecendo estratégias para diminuir os problemas mencionados.
+    As regras estabelecidas na governança ajuda a manter os recursos atualizados, protegidos e bem gerenciados.
 
-- Economies of Scale
-  Economia de escala é a capacidade de fazer com maior eficiência e/ou com um custo menor por unidade ao operar em um escala maior.
+  - Gerenciabilidade
+
+    É o resultado de facilitar o gerenciamento de recursos na nuvem.
+    É poder implantar recursos através de modelos pre-configurados, tirando a necessidade de criá-los manualmente, padrozinando assim as criações de recursos.
+    Podem ser criados:
+        - Usando API
+        - Usando PowerShell
