@@ -1,0 +1,17 @@
+
+# Aula 01
+
+Benefícios da núvem
+
+  - Alta disponibilidade e Escalabilidade
+
+    A alta dispobibilidade (HA) é uma característica que visa garantir o desempenho operacional de um determinado serviço (up time) pelo período superior ao normal.
+    Esta alta disponibilidade é garantida por meios de contrato de SLA , e caso tenha uma queda dos serviços previsto em contrato é devolvido um valor ao cliente pelo tempo que serviço ficou fora.
+    
+  - Confiabilidade e da previsibilidade na nuvem
+  - Segurança e da governança na nuvem
+  - Capacidade de gerenciamento na nuvem 
+
+
+- Economies of Scale
+  Economia de escala é a capacidade de fazer com maior eficiência e/ou com um custo menor por unidade ao operar em um escala maior.
