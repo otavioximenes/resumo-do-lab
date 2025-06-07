@@ -1,0 +1,26 @@
+#Aula 03
+
+Conceitos de IaaS, PaaS e SaaS na Azure
+
+  - IaaS - Infraestrutura como Serviço
+
+    É a infraestrutura de computação instantânea, provisioanda e gerenciada pela internet, como servidores, armazernamento, redes, virtualizações.
+    O responsável pela parte de configurar e gerenciar os recursos, atualizações de patch operacionais e segurança internas das máquinas fica em responsabilidade do cliente que contrata e a parte estrutural 
+    é garantida pelo provedor de nuvem.
+
+    Exemplos: Maquinas virtuais, Armazenamento
+
+  - PaaS - Plataforma como Serviço
+
+    No ambiente de plataforma como serviço o cliente pode criar uma estrutura toda de desenvolvimento sem se preocupar em manter a parte do sistema operacional, são serviços ja disponibilizados para uso. 
+    Ou seja, é um modelo que fornece uma plataforma na nuvem para desenvolvimento, testes, gerenciamento e implementações de aplicações, sem a necessidade de se preocupar e gerenciar a infraestrutura referente.
+
+    Exemplos: Banco de dados, Heroku, Openshift, Elastic Beanstalk
+
+  - SaaS - Software como Serviço
+
+    Permitem que os usuários utilizem e se conectem a serviços baseados em nuvem.
+
+    Exemplos: Email, Office 365, Calendários
+
+    
