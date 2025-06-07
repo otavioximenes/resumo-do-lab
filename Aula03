@@ -10,6 +10,10 @@ Conceitos de IaaS, PaaS e SaaS na Azure
 
     Exemplos: Maquinas virtuais, Armazenamento
 
+    Modelo de Responsabilidade :
+      - Serviço de nuvem mais flexível.
+      - Cliente precisa configurar e gerenciar o hardware.
+
   - PaaS - Plataforma como Serviço
 
     No ambiente de plataforma como serviço o cliente pode criar uma estrutura toda de desenvolvimento sem se preocupar em manter a parte do sistema operacional, são serviços ja disponibilizados para uso. 
@@ -17,10 +21,18 @@ Conceitos de IaaS, PaaS e SaaS na Azure
 
     Exemplos: Banco de dados, Heroku, Openshift, Elastic Beanstalk
 
+    Modelo de Responsabilidade:
+      - Foco no desenvolvimento de aplicativos.
+      - Provedor de nuvem que é responsável pela plataforma e o cliente pelo desenvolvimento.
+
   - SaaS - Software como Serviço
 
     Permitem que os usuários utilizem e se conectem a serviços baseados em nuvem.
 
     Exemplos: Email, Office 365, Calendários
+
+    Modelo de Responsabilidade:
+      - Pagamento conforme o uso do software e pagam pelo modelo de assinatura
+      - Toda a estrutura é responsabilidade do provedor e o cliente gerencia o software.
 
     
