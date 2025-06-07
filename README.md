@@ -19,3 +19,4 @@ Importante que para os desenvolvedores e profissionais de TI estejam "à frente"
 Segue resumo das aulas:
 
   - Aula 01[https://github.com/otavioximenes/resumo-do-lab/blob/main/Aula_01]
+  - Aula 03[https://github.com/otavioximenes/resumo-do-lab/blob/main/Aula03]
